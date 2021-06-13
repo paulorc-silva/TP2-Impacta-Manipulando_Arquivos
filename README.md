@@ -1,2 +1,2 @@
 # TP2-Impacta-Arquivos
-#### Exercícios da disciplina de Técnicas de Programação 2, desenvolvidos utilizando a linguagem Python 3.
+#### Exercícios práticos da disciplina de Técnicas de Programação 2, realizando a manipulação de arquivos, utilizando a linguagem Python 3.
